@@ -10,7 +10,8 @@
 **Tamanho:** Resistência +2. \
 **Força:** Força +2. \
 **Armadura:** Couraça (+3). \
-**Grande:** Atacantes recebem +2 para acertar.
+**Grande:** Atacantes recebem +2 para acertar. \
+**Destemido:** Imune a medo e provocação.
 
 **Aparar:** 5 \
 **Resistência:** 12 \
