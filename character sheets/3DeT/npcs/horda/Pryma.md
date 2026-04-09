@@ -1,13 +1,23 @@
-Pryma, Gura'kai de Kaldrum (20N)
+### Pryma, Gura'kai de Kaldrum (25N)
 
-P:2 H:5 R:3
+**P:** 2
+**H:** 5
+**R:** 3
 
-pvs:15
-pms:45
-pa:2
+**PVs:** 15 \
+**PMs:** 55 \
+**PA:** 2
 
-perícias: Mística, Saber, Influência
+**Perícias:** Mística, Saber, Influência. \
+**Vantagens:** Devoto (1), Magia (2), Mana (3), Paralisia (1), Base (1), Grimório (2), alcance (1); sentido (infra-visão; 1), Irresistível (1). \
+**Desvantagens:** Infame (-1), Fracote (-1).
 
-Vantagens: Devoto (1), Magia (2), Mana (2), Paralisia (1), Base (1), Gimório (Grimório debilitante; 1), alcance (1); sentido (infravisão; 1)
+**kit:** Clérigo (1).
 
-Desvantagens: Infame (-1), Fracote (-1)
+**Técnicas**
+---
+**Truques:** Grimório debilitante, Barreira mística.
+
+**Inventário**
+---
+**Comum:** 2

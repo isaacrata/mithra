@@ -9,13 +9,9 @@
 **PA:** 2
 
 **Perícias:** Sobrevivência, Percepção.\
-**Vantagens:** Desgaste (1), Sentido (Faro; 1)\
-**Desvantagens:** Diferente (-1), Monstruoso (-1)
+**Vantagens:** Desgaste (1), Sentido (Faro; 1). \
+**Desvantagens:** Diferente (-1), Monstruoso (-1).
 
 **Inventário**
 ---
-**Comum:** 2\
-**Incomum:** \
-**Raro:** \
-**Lendário:**
-
+**Comum:** 2

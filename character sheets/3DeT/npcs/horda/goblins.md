@@ -8,14 +8,10 @@
 **PMs:** 5\
 **PA:** 2
 
-**Perícias:** Lutar/Manha\
-**Vantagens:** Goblin (1)\
-**Desvantagens:** Infame (-1), Inculto (-1)
+**Perícias:** Lutar/Manha. \
+**Vantagens:** Goblin (1). \
+**Desvantagens:** Infame (-1), Inculto (-1).
 
 **Inventário**
 ---
-**Comum:** 2\
-**Incomum:** \
-**Raro:** \
-**Lendário:**
-
+**Comum:** 2

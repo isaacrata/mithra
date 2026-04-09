@@ -14,11 +14,7 @@
 
 **Monstro**: Pode gastar 2pms para realizar um ataque. Sucesso absorve um alvo, que passa a receber 1d6 de dano por turno e não pode respirar nem realizar ações até se libertar. Libertar-se exige um teste de Esportes, dificuldade 6+P do limo.
 
-
 **Inventário**
 ---
-**Comum:** \
-**Incomum:** \
-**Raro:** \
-**Lendário:**
+**Comum:** 2
 

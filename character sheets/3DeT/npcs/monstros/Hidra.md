@@ -20,8 +20,4 @@
 
 **Inventário**
 ---
-**Comum:** \
-**Incomum:** \
-**Raro:** \
-**Lendário:**
-
+**Comum:** 2
