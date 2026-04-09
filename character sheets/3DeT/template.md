@@ -20,4 +20,3 @@
 **Incomum:** \
 **Raro:** \
 **Lendário:**
-
