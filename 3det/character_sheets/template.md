@@ -4,19 +4,26 @@
 **H:**
 **R:**
 
-**PVs:**\
-**PMs:**\
+**PVs:**
+\
+**PMs:**
+\
 **PA:**
 
-**Perícias:** \
-**Vantagens:** \
+**Perícias:**
+\
+**Vantagens:**
+\
 **Desvantagens:**
 
 **kit:**
 
 **Inventário**
 ---
-**Comum:** \
-**Incomum:** \
-**Raro:** \
+**Comum:**
+\
+**Incomum:**
+\
+**Raro:**
+\
 **Lendário:**
