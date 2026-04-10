@@ -1,23 +1,24 @@
-Obsidian, Forge artista marcial (24N)
+### Obsidian, Forge artista marcial (27N)
 
-P:5 H:4 R:5
+**P:** 4
+**H:** 2
+**R:** 4
 
-pvs:25
-pms:20
-pa:5
+**PVs:** 30 \
+**PMs:** 30 \
+**PA:** 4
 
-perícias: Luta.
+**Perícias:** Luta. \
+**Vantagens:** Forge (diretriz: megalomania; 2), Aceleração (1), Membros (2), Resistência (corte, perfuração; 1), Invulnerável (fogo; 1); Ataque especial (poderoso, potente II; 3), Mana (2), Grimório (2), Defesa Especial (Provocação; 1), Vigoroso (1), Vida (1). \
+**Desvantagens:** Diferente (-1), Código (gratidão; -1)
 
-Vantagens: Ciborgue (diretriz: megalomania; 2), aceleração (1), membros (2), resistência (corte, perfuração; 1), invulnerável (fogo; 1); Ataque especial (poderoso, potente II; 3)
+**kit:** Artista Marcial (1)
 
-Desvantagens: Diferente (-1), código (gratidão; -1)
+**Técnicas:**
+---
+**Truques:** Golpes (Derrubar, Golpe Forte). \
+**Comum:** Combo.
 
-kit: Artista Marcial (kata, montagem de treino, Lutarei para conseguir!)
-
-Técnicas: Combo, Golpes (derrubar, recuperar fôlego)
-
-Inventário (0):
-
-comum:
--
--
+**Inventário**
+---
+**Comum:** 2
