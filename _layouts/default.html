@@ -5,15 +5,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/assets/css/style.css">
-  <script src="/assets/js/main.js" defer></script>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
 </head>
 
 <body>
   <main class="page-content">
     <div class="wrapper">
       <header>
-        <a href="/">{{ site.title }}</a>
+        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
       </header>
       {{ content }}
     </div>
