@@ -18,8 +18,7 @@
 
 **kit:**
 
-**Inventário**
----
+## Inventário
 **Comum:**
 \
 **Incomum:**

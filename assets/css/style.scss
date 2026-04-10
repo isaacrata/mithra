@@ -1,8 +1,37 @@
 ---
 ---
+@import "minima";
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --accent: #0066cc;
+  --link-hover: #004999;
+}
 
-.page-content {}
+.dark {
+  --bg: #111111;
+  --text: #eeeeee;
+  --accent: #4ea3ff;
+  --link-hover: #82c4ff;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--accent);
+  &:hover {
+    color: var(--link-hover);
+  }
+}
+
+.page-content {
+  h1,
+  h2 {
+    border-bottom: 1px solid #3d444db3;
+    padding-bottom: 0.3em;
+  }
+}

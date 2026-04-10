@@ -1,3 +1,5 @@
 {
   "cSpell.language": "en,pt,pt_BR",
+  "files.trimTrailingWhitespace": false,
+  "scss.validate": false
 }

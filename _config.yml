@@ -1,6 +1,6 @@
 title: Mithra
 description: Lore and legends of Mithra
-# theme: minima
+theme: minima
 
 defaults:
   - scope:

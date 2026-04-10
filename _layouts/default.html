@@ -5,15 +5,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <!-- <link rel="stylesheet" href="/assets/css/style.css"> -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script src="/assets/js/main.js" defer></script>
 </head>
 
 <body>
   <main class="page-content">
-    <header>
-      <a href="/">{{ site.title }} aaaa</a>
-    </header>
-    {{ content }}
+    <div class="wrapper">
+      <header>
+        <a href="/">{{ site.title }}</a>
+      </header>
+      {{ content }}
+    </div>
   </main>
 </body>
 
