@@ -1,0 +1,9 @@
+title: Mithra
+description: Lore and legends of Mithra
+# theme: minima
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
