@@ -9,7 +9,7 @@
 **PA:** 1
 
 **Perícias:** Lutar \
-**Vantagens:** Defesa Especial (provocação, reflexão; 2), Kemono (vigoroso, atrapalhado ; 1), magia (1) \
+**Vantagens:** Defesa Especial (provocação, reflexão; 2), Kemono (vigoroso, atrapalhado ; 1), mana (1) \
 **Desvantagens:** Código (gratidão, redenção; -2)
 
 **kit:** Tanque (1)

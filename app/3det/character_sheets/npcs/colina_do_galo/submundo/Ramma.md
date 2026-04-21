@@ -16,5 +16,3 @@
 ---
 **Comum:** 3 \
 **Outros:** Elixir obra prima.
-
-
