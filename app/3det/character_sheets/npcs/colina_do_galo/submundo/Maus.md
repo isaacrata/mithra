@@ -18,6 +18,6 @@
 ---
 **Comum:** 6 \
 **Incomum:** 3 \
-**Mascara de Maskar * :** Uma máscara de palha que dá todos os poderes do kit Impostor. \
+**Mascara de Laylore * :** Uma máscara de palha que dá todos os poderes do kit Impostor. \
 **Anel das mil Lâminas:** Permite o usuário invocar adagas e controla-las com gestos. \
 **Compra:** 2pt x 2

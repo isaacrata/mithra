@@ -21,8 +21,3 @@ Artefato (manto da lua cheia, adagas da meia lua; 2) \
 **Comum:** 2 \
 **Adagas da meia lua:** Crítico com 5-6 \
 **Manto da luta cheia:** Dá os poderes da lua cheia \
-
-
-pvs:15
-pms:25-23
-pas:2

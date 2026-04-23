@@ -29,7 +29,7 @@
 \
 **Personalidade astrológica:** A fase da lua em que você nasceu tem forte influencia sob sua personalidade e corpo. Escolha uma entre Ágil, Carismático,  Forte, Gênio, Resoluto ou Vigoroso. Em contra partida, você também deve escolher um entre Antipático, Atrapalhado, Fracote, Frágil, Indeciso ou Tapado.
 \
-**Noite do caçador:** Elfos da lua conseguem enxerguer perfeitamente no escuro. você recebe a vantagem sentido (infravisão).
+**Noite do caçador:** Elfos da lua conseguem enxergar perfeitamente no escuro. você recebe a vantagem sentido (infra-visão).
 
 ## Forge (2pts)
 
