@@ -16,7 +16,7 @@
 
 **Técnicas:**
 ---
-**Truques:** Golpes (Derrubar, Golpe Forte). \
+**Truques:** Golpes (Derrubar, Golpe Atordoante). \
 **Comum:** Combo.
 
 **Inventário**

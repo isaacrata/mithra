@@ -6,13 +6,13 @@
 
 **PVs:** 10
 \
-**PMs:** 40
+**PMs:** 50
 \
 **PA:** 2
 
 **Perícias:** Mística, Manha.
 \
-**Vantagens:** Feiticeira (1), Alcance (1), Irresistível (1), Anulação (2), Mana (2), Grimório (2).
+**Vantagens:** Feiticeira (1), Irresistível (1), Anulação (2), Mana (3), Grimório (2).
 \
 **Desvantagens:** Fracote (-1), Utensílio (Bola de crista: Mística, -1).
 
