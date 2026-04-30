@@ -1,9 +1,13 @@
 title: Mithra
 description: Lore and legends of Mithra
 theme: minima
+permalink: pretty
+
+include:
+  - app
 
 defaults:
   - scope:
-      path: ""
+      path: "app/"
     values:
       layout: default
