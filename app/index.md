@@ -1,24 +1,21 @@
 ---
-title: Home
 permalink: /
+title: 'Home'
 ---
 
-# Home
-
 ## Cenário
-- [Deuses](/app/lore/gods/)
-- [Religiões](/app/lore/religions/)
-- [Reinos e Territórios](/app/lore/kingdoms_territories/)
-- [Organizações](/app/lore/orders/)
+- [Deuses]({{ "/app/lore/gods/" | relative_path }})
+- [Religiões]({{ "/app/lore/religions/" | relative_path }})
+- [Reinos e Territórios]({{ "/app/lore/kingdoms-territories/" | relative_path }})
+- [Organizações]({{ "/app/lore/orders/" | relative_path }})
 
 ## Adaptações
 ### 3DeT victory
 
-- [Arquétipos](/app/3det/archetypes/)
-- [Ficha Template](/app/3det/character_sheets/template/)
+- [Arquétipos]({{ "/app/3det/archetypes/" | relative_path }})
+- [Ficha Template]({{ "/app/3det/character-sheets/template/" | relative_path }})
 
 ### Savage Worlds
 
-- [Arquétipos](/app/savage_worlds/archetypes/)
-- [Ficha Template](/app/savage_worlds/character_sheets/template/)
-
+- [Arquétipos]({{ "/app/savage-worlds/archetypes/" | relative_path }})
+- [Ficha Template]({{ "/app/savage-worlds/character-sheets/template/" | relative_path }})

@@ -1,4 +1,6 @@
-# Reinos e Territórios
+---
+title: 'Reinos e Territórios'
+---
 
 ## Cruz de Ferro
 
@@ -34,6 +36,6 @@
 
 ## Drumhall
 
-- [Drumhall](drumhall/)
+[Drumhall]({{ "drumhall/" | relative_path }})
 
 ## Ignathra
