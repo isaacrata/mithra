@@ -36,6 +36,6 @@ title: 'Reinos e Territórios'
 
 ## Drumhall
 
-[Drumhall]({{ "drumhall/" | relative_path }})
+[Drumhall]({{ "drumhall" | relative_path }})
 
 ## Ignathra

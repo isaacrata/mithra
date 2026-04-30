@@ -1,6 +1,4 @@
----
-title: 'Drumhall'
----
+# Drumhall
 
 O reino dos anões é provavelmente o maior território do continente. Localizado majoritariamente na **Cordilheira da Fúria**, as terras dos anões se estendem de norte a sul pelos picos rochosos, no entanto, o coração de Drumhall reside não na superfície, mas nos subterrâneos das montanhas.
 

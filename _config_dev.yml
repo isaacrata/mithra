@@ -3,7 +3,7 @@ description: Lore and legends of Mithra
 theme: minima
 permalink: pretty
 
-baseurl: "/mithra"
+baseurl: ""
 
 include:
   - app
