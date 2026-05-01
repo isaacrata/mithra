@@ -6,5 +6,5 @@
 ## Run Locally
 
 ```bash
-$ bundle exec jekyll serve --livereload
+$ bundle exec jekyll serve --livereload --config _config_dev.yml
 ```

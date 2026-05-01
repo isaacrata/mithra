@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: 'Home'
 ---
+
+# Home
 
 ## Cenário
 - [Deuses]({{ "/app/lore/gods/" | relative_url }})
