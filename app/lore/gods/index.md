@@ -16,7 +16,7 @@ O deus-mithra da guerra é uma armadura viva, cada parte do indumentário carreg
 
 Após a guerra do caldeirão e do cálice, Conquista perdeu força entre as sociedades humanas, sendo louvado hoje principalmente em Durkan e no império Dracônia.
 
-**Descrição:** Uma armadura viva, cada uma de suas partes carregando parte de sua essência e poder, a maioria no entanto está perdida.
+**Descrição:** Uma armadura viva, cada uma de suas partes carregando parte de sua essência e poder, a maiovria no entanto está perdida.
 \
 **Nomes:** Deus da guerra.
 \
@@ -32,7 +32,7 @@ Outrora uma árvore senciente, com muito conhecimento e sabedoria, Herbos se tor
 \
 **Domínios:** Animais, plantas, natureza.
 
-## Behemont, deusa dos monstros
+## Behemut, deusa dos monstros
 
 A primeira ent criada por Herbos, para auxiliá-lo, Behemont cometeu o crime que nenhuma árvore deveria: se alimentou da carne, tornando-se a primeira troll. Sua existência após isso foi dedicada a consumir tudo que é vivo no mundo, e corromper o trabalho de seu criador, tornando-se a deusa dos monstros.
 
@@ -72,7 +72,7 @@ Lor'el foi a responsável pela criação dos elfos da lua, e segundo a fé, dos 
 \
 **Nomes:** Deusa da lua, deusa da caça, Lua, Mãe noite, Caçadora, A de muitas faces.
 \
-**Domínios:** Noite, caça, céu noturno, sono.
+**Domínios:** Noite, caça, céu noturno, vingança.
 
 ## Astra, deusa das estrelas
 
@@ -82,7 +82,7 @@ Se Lor'el é a lua, Astra são as estrelas no céu. Não se sabe se essa deusa-m
 \
 **Nomes:** Deusa das estrelas, Oráculo, Céu estrelado, estrelada, consciência cósmica, Asterya, Advinha.
 \
-**Domínios:** Céu noturno, profecia, sonhos.
+**Domínios:** Céu noturno, profecia, sonhos, comunidade.
 
 ## Algoram, deus máquina
 
@@ -92,7 +92,7 @@ O deus-máquina dos anões, Algoram foi encontrado sob as areias e montanhas do 
 \
 **Nomes:** Deus matemático, deus dos anões, deus da ciência, deus máquina, grande soldador.
 \
-**Domínios:** Matemática, ciências, forja.
+**Domínios:** Matemática, ciências, forja, comércio.
 
 ## Kaldrum, o caldeirão vivo
 
@@ -112,7 +112,7 @@ Ignathra é um imenso vulção, uma montanha viva localizada na Cordilheira da F
 \
 **Nomes:** Montanha viva, chama eterna, Mãe, Forja viva, Coração da Fúria, Deusa do fogo e da terra.
 \
-**Domínios:** Fogo, terra, montanhas, força de vontade.
+**Domínios:** Fogo, terra, montanhas, força de vontade, agricultura.
 
 ## Laylore, deus da trapaça
 
@@ -122,7 +122,7 @@ Não se sabe exatamente as origens desse deus-mithra, tão pouco toda a extensã
 \
 **Nomes:** Maskar, Trapaceiro, Mascarado, Pedinte, Encruzilhado, Deus da trapaça, espantalho vivo.
 \
-**Domínios:** Trapaça, viagens, estórias.
+**Domínios:** Trapaça, viagens, estórias, comércio.
 
 ## Tyfão, deus da tempestade
 
@@ -153,6 +153,16 @@ Localizado no topo da maior pirâmide de Siroco, esse deus-mithra é um imenso p
 **Nomes:** Deus do sol, aquele que tudo vê, grande farol,
 \
 **Domínios:** Deserto, sol, justiça, verdade.
+
+## Musine, deusa das artes
+
+Uma grande aventureira dos auror que após uma campanha e sacrifício épico teve a alma preservada por Lor'el, imortalizada em uma flor de cerejeira no alto dos picos gelados do norte. Musine tornou-se a primeira dríade, e patrona das artes, da música e do amor. Sua canção pode ser ouvida até os dias atuais nos ventos das montanhas do norte.
+
+**Descrição:** Uma cerejeira sempre florida, que carrega o espírito imortal que é Musine.
+\
+**Nomes:** A primeira dríade, trovadora, voz da montanha.****
+\
+**Domínios:** Artes, música, amor, amizade, beleza, inspiração.
 
 ## Matriarcas
 
