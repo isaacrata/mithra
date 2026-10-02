@@ -6,7 +6,7 @@
 \
 **Infame:** Todos odeiam, desprezam ou temem feiticeiros.
 \
-**Magia caótica:** Feiticeiros possuem marcas que lembram tatuagens ou cicatrizes pelo corpo que brilham quando usam magia. Além disso, para cada resultado 1 nos dados ao realizar um teste de magia, acumula 1 ponto de caos. Ao adquirir 3 pontos de caos, uma falha crítica acontece. Geralmente esse efeito é caótico e pode ser sentido em todo o ambiente.
+**Magia caótica:** Feiticeiros possuem marcas que lembram tatuagens ou cicatrizes pelo corpo que brilham quando usam magia. Além disso, sempre que rolar um resultado 1 em qualquer teste usando a vantagem *Magia*, marque 1 *ponto de caos* em sua ficha; ao adquirir 3 pontos, você tem uma *falha caótica* automática, essa falha é como uma falha crítica mas com um efeito visual impressionante que pode ser sentido em todo o ambiente. Os *pontos de caos* zeram quando você obtém uma *falha caótica* ou quando tem um descanso completo em um local adequado.
 
 ## Lynkai (1pt)
 
